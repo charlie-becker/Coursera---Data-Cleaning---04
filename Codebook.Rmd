@@ -5,11 +5,7 @@ date: "5/12/2018"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-#### The following codes are identified for the tidy.txt file that is generated from the Run_analysis.R script.  It's a 180 rows (grouped by 30 subjects and 6 activites) and 81 columns (subject, activity, and 79 observations).
+#### The following codes are identified for the tidy.txt file that is generated from the Run_analysis.R script.  It's a 180 rows (grouped by 30 subjects and 6 activites) and 81 columns (subject, activity, and 79 observations).  All observations are scaled from -1 to 1.
 
 The 30 sujects (labled 1-30) are arranged by the 6 following activities:
 
