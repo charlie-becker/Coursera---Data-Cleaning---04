@@ -1,2 +1,1 @@
-# Coursera---Data-Cleaning---04
-Course 04 from the John Hopkins Data Science Specialization Track - Getting and Cleaning Data
+Run_analysis.R is a script that generates a "tidy" set of data from accelerometers worn by 30 participants whilst performing 6 different activities.  The original data consisted of 100's of variables that was narrowed down to 79 - the means and standard deviations of groups - which are listed in the Codebook.md file.  The final tidy.txt data is the mean of each variable for each subject and activity - a final file of 180 rows and 81 columns.
